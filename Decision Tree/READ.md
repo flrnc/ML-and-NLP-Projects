@@ -12,7 +12,7 @@ This project shows the use of a Decision Tree Regression model to analyze hiring
 4. **Results Comparison:**
   - Created a DataFrame to show real values and predicted values side by side for evaluation.
 
-## ** Tools & Libraries:**
+## **Tools & Libraries:**
   - Python
   - Pandas
   - NumPy
