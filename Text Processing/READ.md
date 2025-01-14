@@ -15,6 +15,6 @@ This project shows text cleaning and preprocessing to prepare data for natural l
     - Compared stemming and lemmatization for selected words.
 
 ## **Tools & Libraries:**
-    - Python
-    - Pandas
-    - NLTK (Natural Language Toolkit)
+- Python
+- Pandas
+- NLTK (Natural Language Toolkit)
